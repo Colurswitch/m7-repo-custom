@@ -93,7 +93,7 @@
             "popularity": 1
         },
         {
-            "id": "youtube",
+            "id": "movian-plugin-youtube",
             "version": "5.0.14",
             "type": "ecmascript",
             "author": "dean",
@@ -103,7 +103,7 @@
             "description": "The best resource available on the Internet for Video sharing.",
             "homepage": "http://www.youtube.com/",
             "category": "video",
-            "downloadURL": "https://github.com/andoma/movian-plugin-youtube/archive/refs/heads/master.zip",
+            "downloadURL": "https://github.com/Colurswitch/m7-repo-custom/raw/main/movian-plugin-youtube.zip",
             "icon": "https://raw.githubusercontent.com/andoma/movian-plugin-youtube/master/logo.png",
             "popularity": 1
         },
