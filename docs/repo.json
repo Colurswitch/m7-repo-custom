@@ -93,6 +93,21 @@
             "popularity": 1
         },
         {
+            "id": "youtube",
+            "version": "5.0.14",
+            "type": "ecmascript",
+            "author": "dean",
+            "showtimeVersion": "5.0.462",
+            "title": "YouTube",
+            "synopsis": "Youtube: Broadcast Yourself",
+            "description": "The best resource available on the Internet for Video sharing.",
+            "homepage": "http://www.youtube.com/",
+            "category": "video",
+            "downloadURL": "https://github.com/andoma/movian-plugin-youtube/archive/refs/heads/master.zip",
+            "icon": "https://raw.githubusercontent.com/andoma/movian-plugin-youtube/master/logo.png",
+            "popularity": 1
+        },
+        {
             "id": "rua_osk",
             "version": "1.3",
             "type": "views",
